@@ -1,1 +1,2 @@
 Hello!
+Denmark is cool
